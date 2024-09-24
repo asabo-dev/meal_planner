@@ -1,0 +1,1 @@
+A simple app that helps people plan their meals throughtout the week.
